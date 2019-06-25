@@ -1,5 +1,6 @@
 import scala.io.StdIn._
 
+
 println("Enter two numbers for operation");
 print("Enter first number - ");
 val number1 : Int = readInt();
